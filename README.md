@@ -16,10 +16,11 @@ If you worry about privacy you could use the following steps instead.
 
 5) use the following commands to configure your WIFI connection
 
-async_responses on
+```async_responses on
 network wifi profiles add <SSID> wpa_or_wpa2 <yourpassphrase>
 network mode auto
 sys reboot
+```
 
 Remember: this is an unencrypted connection. But... its also an unencrypted connection if you use the App for initial setup.
 
