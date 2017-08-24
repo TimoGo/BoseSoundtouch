@@ -4,6 +4,7 @@ use Bose Soundtouch without the app for privacy reasons
 Initial setup without App
 
 Setting up Bose Soundtouch Devices needs an (Android/Iphone) app.
+
 If you worry about privacy you could use the following steps instead.
 
 1) unbox the device and switch it on ( if you already configured your device do a firmware reset => Press and hold the "system's 1 and both Volume buttons" for 10 seconds)
@@ -23,6 +24,7 @@ sys reboot
 ```
 
 Remember: this is an unencrypted connection. 
+
 But... its also an unencrypted connection if you use the app for initial setup.
 
 Example output:
