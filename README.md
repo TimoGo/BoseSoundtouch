@@ -1,5 +1,5 @@
 # BoseSoundtouch
-use Bose Soundtouch without the app for privacy reasons
+how to use Bose Soundtouch without the app for privacy reasons
 
 Initial setup without App
 
