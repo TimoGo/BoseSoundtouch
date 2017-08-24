@@ -22,11 +22,12 @@ network mode auto
 sys reboot
 ```
 
-Remember: this is an unencrypted connection. But... its also an unencrypted connection if you use the App for initial setup.
+Remember: this is an unencrypted connection. 
+But... its also an unencrypted connection if you use the app for initial setup.
 
 Example output:
 
->async_responses on
+```>async_responses on
 Done
 
 ->network wifi profiles add Speedport wpa_or_wpa2 mysecret
@@ -48,6 +49,6 @@ mode set to auto
 ->sys reboot
 Rebooting system
 ->OK
-
+```
 
 6) use https://github.com/CharlesBlonde/libsoundtouch to assign the buttons
