@@ -53,4 +53,5 @@ Rebooting system
 ->OK
 ```
 
-6) use https://github.com/CharlesBlonde/libsoundtouch to assign the buttons
+6) use https://github.com/CharlesBlonde/libsoundtouch to assign the buttons (command: device.play_media(Source.INTERNET_RADIO, '<number>'. To find the right number, see: https://github.com/CharlesBlonde/libsoundtouch/issues/14 and to store the chosen channel press the favoured button for 3 seconds on bose soundtouch.) 
+
